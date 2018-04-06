@@ -1,0 +1,8 @@
+page-quote {
+  .colorBackground {
+    background-color: map_get($colors,quoteBackground);
+  }
+  .lightRed {
+    background-color: #f7d9c0;
+  }
+}
